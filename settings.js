@@ -2,19 +2,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "263717750825"
-global.ownername = "Precious Ayomide 👑"
-global.ytname = "YT: Prexzyvilla"
+global.ownernomer = "2347040577867"
+global.ownername = "Okikiri John"
+global.ytname = "Tiktok: SwatB2kGaming"
 global.socialm = "GitHub: Prexzybooster"
 global.location = "Nigeria, Osun, Osogbo"
 
 global.ownernumber = '2347040577867'  //creator number
-global.ownername = 'Prexzy Tech' //owner name
-global.botname = 'PREXZY ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownername = 'SwatB2k Gaming' //owner name
+global.botname = 'SwatB2k ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'PREXZY👑\n\nContact: +263717750825'
+global.author = 'SwatB2k \n\nContact: +2347040577867'
 
 //console view/theme
 global.themeemoji = '🪀'
@@ -33,7 +33,7 @@ global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = false //auto view status/story
+global.autoswview = true //auto view status/story
 
 //menu type 
 //v1 is image menu, 
